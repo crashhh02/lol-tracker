@@ -9,6 +9,7 @@ module.exports = {
       sm: '0.8rem',
       base: '1rem',
       xl: '1.5rem',
+      xxl: '2.5rem',
 
     },
     extend: {},

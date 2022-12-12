@@ -14,9 +14,11 @@ import Sidebar from '@/components/Sidebar/Sidebar.vue'
   padding: 0;
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
+
 }
 #app {
   display: flex;
+  
 }
 
 main {
